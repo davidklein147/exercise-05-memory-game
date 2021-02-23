@@ -1,6 +1,8 @@
 const sumCard = document.getElementById('sumCard');
 
+document.getElementById('sumCard').addEventListener("keyup", sum);
 document.getElementById('sumCard').addEventListener("click", sum);
+
 
 
 function sum() {
