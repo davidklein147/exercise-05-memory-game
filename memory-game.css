@@ -1,0 +1,17 @@
+.size{
+    width: 50%;
+    margin: auto;
+}
+.bek{
+
+    background-color: black;
+    color: #fff;
+    width: 110px;
+    height: 110px;
+    margin: 10px;
+    font-size: 5em;
+}
+.bekDisplay{
+    color: #000;
+    
+}
