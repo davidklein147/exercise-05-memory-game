@@ -1,5 +1,5 @@
 .size{
-    width: 50%;
+    
     margin: auto;
 }
 .bek{
@@ -14,4 +14,11 @@
 .bekDisplay{
     color: #000;
     
+}
+.flot{
+    float: left;
+}
+
+.floatClear{
+    clear: both;
 }
